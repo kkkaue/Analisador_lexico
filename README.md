@@ -1,4 +1,4 @@
-# Analisador_lexico
+# Analisador léxico
 Minha resolução da Avaliação parcial II na matéria de Compiladores do curso de Ciência da Computação ministrada pelo professor Samuel Silva de Oliveira na Universidade Federal do Amapá:
 
 A atividade pede para criar um Analisador Léxico com base em um autômato criado pelo próprio aluno
